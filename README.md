@@ -1,4 +1,4 @@
-# Trabalho de graduação em Bacharel de Engenharia de Computação
+# Trabalho de Sinais e Sistemas Lineares
 
 Este trabalho foi escrito em markdown e para gerar o output final é necessário utilizar os seguintes comandos:
 ```bash
